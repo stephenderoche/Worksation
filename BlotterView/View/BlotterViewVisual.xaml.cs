@@ -655,6 +655,7 @@
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             _vm.GetChecks();
+            //aad tewst 
         }
 
         void OnEndDeserializing(object sender, EndDeserializingEventArgs e)
