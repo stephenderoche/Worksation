@@ -49,11 +49,7 @@
         <Style TargetType="dxg:HeaderContentControl">
             <Setter Property="Background" Value="LightGray"/>
         </Style>
-        <Style x:Key="{dxgt:GroupRowThemeKey ResourceKey=GroupItemsControlStyle}" TargetType="{x:Type dx:CachedItemsControl}">
-            <Setter Property="ClipToBounds" Value="true" />
-            <Setter Property="dxg:GridColumn.HeaderPresenterType" Value="GroupPanel" />
-            <Setter Property="Background" Value="LightGray"/>
-        </Style>
+     
 
 
         <sys:Double x:Key="maxHeaderHeight">
