@@ -1,0 +1,14 @@
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\SecurityHistory\obj\Debug\View\SecurityHistorySettingVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\SecurityHistory\obj\Debug\View\SecurityHistorySettingVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\SecurityHistory\obj\Debug\View\SecurityHistoryVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\SecurityHistory\obj\Debug\SecurityHistory.Client_MarkupCompile.cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\SecurityHistory\obj\Debug\SecurityHistory.Client_MarkupCompile.lref
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\SecurityHistory\obj\Debug\View\SecurityHistoryVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\SecurityHistory\obj\Debug\SecurityHistory.Client.g.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\SecurityHistory\obj\Debug\SecurityHistory.Client.Properties.Resources.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\SecurityHistory\obj\Debug\SecurityHistory.csproj.GenerateResource.Cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\SecurityHistory\obj\Debug\SecurityHistory.Client.dll
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\SecurityHistory\obj\Debug\SecurityHistory.Client.pdb
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\SecurityHistory\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\SecurityHistory\obj\Debug\View\Column.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\SecurityHistory\obj\Debug\View\Column.g.cs

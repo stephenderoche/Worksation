@@ -1,0 +1,29 @@
+C:\Workspace\Linedata Trading\75.3.0.20900\Dashboard\Widgets\Linedata.Framework.Client.NavDashBoardViewerPublisher.dll
+C:\Workspace\Linedata Trading\75.3.0.20900\Dashboard\Widgets\Linedata.Framework.Client.NavDashBoardViewerPublisher.pdb
+C:\Workspace\Linedata Trading\75.3.0.18900\Dashboard\Widgets\Linedata.Framework.Client.NavDashBoardViewerPublisher.dll
+C:\Workspace\Linedata Trading\75.3.0.18900\Dashboard\Widgets\Linedata.Framework.Client.NavDashBoardViewerPublisher.pdb
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\NavDashBoardViewer\obj\Debug\View\NavDashboardViewerPublisherVisual.g.cs
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\NavDashBoardViewer\obj\Debug\Linedata.Framework.Client.NavDashBoardViewerPublisher_MarkupCompile.cache
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\NavDashBoardViewer\obj\Debug\Linedata.Framework.Client.NavDashBoardViewerPublisher_MarkupCompile.lref
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\NavDashBoardViewer\obj\Debug\View\NavDashboardViewerPublisherVisual.baml
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\NavDashBoardViewer\obj\Debug\Linedata.Framework.Client.NavDashBoardViewerPublisher.g.resources
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\NavDashBoardViewer\obj\Debug\Linedata.Framework.Client.NavDashBoardViewerPublisher.Properties.Resources.resources
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\NavDashBoardViewer\obj\Debug\NavDashboardViewer.csproj.GenerateResource.Cache
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\NavDashBoardViewer\obj\Debug\Linedata.Framework.Client.NavDashBoardViewerPublisher.pdb
+C:\Workspace\Linedata Trading\75.3.0.24100\Dashboard\Widgets\Linedata.Framework.Client.NavDashBoardViewerPublisher.dll
+C:\Workspace\Linedata Trading\75.3.0.24100\Dashboard\Widgets\Linedata.Framework.Client.NavDashBoardViewerPublisher.pdb
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\NavDashBoardViewer\obj\Debug\Linedata.Framework.Client.NavDashBoardViewerPublisher.dll
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\NavDashBoardViewer\obj\Debug\NavDashboardViewer.csprojResolveAssemblyReference.cache
+C:\Temp\devexpress17\Linedata.Framework.Client.NavDashBoardViewerPublisher.dll
+C:\Temp\devexpress17\Linedata.Framework.Client.NavDashBoardViewerPublisher.pdb
+C:\Sales_Engineering\Development - 753\Workstation\Widgets\NavDashBoardViewer\obj\Debug\View\NavDashboardSettingVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation\Widgets\NavDashBoardViewer\obj\Debug\View\NavDashboardSettingVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation\Widgets\NavDashBoardViewer\obj\Debug\View\NavDashboardViewerPublisherVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation\Widgets\NavDashBoardViewer\obj\Debug\Linedata.Framework.Client.NavDashBoardViewerPublisher_MarkupCompile.cache
+C:\Sales_Engineering\Development - 753\Workstation\Widgets\NavDashBoardViewer\obj\Debug\Linedata.Framework.Client.NavDashBoardViewerPublisher_MarkupCompile.lref
+C:\Sales_Engineering\Development - 753\Workstation\Widgets\NavDashBoardViewer\obj\Debug\View\NavDashboardViewerPublisherVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation\Widgets\NavDashBoardViewer\obj\Debug\Linedata.Framework.Client.NavDashBoardViewerPublisher.g.resources
+C:\Sales_Engineering\Development - 753\Workstation\Widgets\NavDashBoardViewer\obj\Debug\Linedata.Framework.Client.NavDashBoardViewerPublisher.Properties.Resources.resources
+C:\Sales_Engineering\Development - 753\Workstation\Widgets\NavDashBoardViewer\obj\Debug\NavDashboardViewer.csproj.GenerateResource.Cache
+C:\Sales_Engineering\Development - 753\Workstation\Widgets\NavDashBoardViewer\obj\Debug\Linedata.Framework.Client.NavDashBoardViewerPublisher.dll
+C:\Sales_Engineering\Development - 753\Workstation\Widgets\NavDashBoardViewer\obj\Debug\Linedata.Framework.Client.NavDashBoardViewerPublisher.pdb

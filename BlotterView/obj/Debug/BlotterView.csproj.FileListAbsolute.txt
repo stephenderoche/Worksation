@@ -1,0 +1,17 @@
+C:\Temp\devexpress17\BlotterView.Client.dll
+C:\Temp\devexpress17\BlotterView.Client.pdb
+C:\Sales_Engineering\Development - 753\Widgets 2_0\BlotterView\obj\Debug\View\Column.baml
+C:\Sales_Engineering\Development - 753\Widgets 2_0\BlotterView\obj\Debug\View\BlotterViewSettingVisual.baml
+C:\Sales_Engineering\Development - 753\Widgets 2_0\BlotterView\obj\Debug\View\Column.g.cs
+C:\Sales_Engineering\Development - 753\Widgets 2_0\BlotterView\obj\Debug\View\BlotterViewSettingVisual.g.cs
+C:\Sales_Engineering\Development - 753\Widgets 2_0\BlotterView\obj\Debug\View\BlotterViewVisual.g.cs
+C:\Sales_Engineering\Development - 753\Widgets 2_0\BlotterView\obj\Debug\BlotterView.Client_MarkupCompile.cache
+C:\Sales_Engineering\Development - 753\Widgets 2_0\BlotterView\obj\Debug\BlotterView.Client_MarkupCompile.lref
+C:\Sales_Engineering\Development - 753\Widgets 2_0\BlotterView\obj\Debug\View\BlotterViewVisual.baml
+C:\Sales_Engineering\Development - 753\Widgets 2_0\BlotterView\obj\Debug\BlotterView.Client.g.resources
+C:\Sales_Engineering\Development - 753\Widgets 2_0\BlotterView\obj\Debug\BlotterView.Client.Properties.Resources.resources
+C:\Sales_Engineering\Development - 753\Widgets 2_0\BlotterView\obj\Debug\BlotterView.csproj.GenerateResource.Cache
+C:\Sales_Engineering\Development - 753\Widgets 2_0\BlotterView\obj\Debug\BlotterView.Client.dll
+C:\Sales_Engineering\Development - 753\Widgets 2_0\BlotterView\obj\Debug\BlotterView.Client.pdb
+C:\Sales_Engineering\Development - 753\Widgets 2_0\BlotterView\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Sales_Engineering\Development - 753\Widgets 2_0\BlotterView\obj\Debug\BlotterView.csprojResolveAssemblyReference.cache

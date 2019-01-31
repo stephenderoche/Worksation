@@ -1,0 +1,12 @@
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\NavProcessStatus\obj\Debug\View\NavProcessSettingVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\NavProcessStatus\obj\Debug\View\NavProcessSettingVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\NavProcessStatus\obj\Debug\View\NavProcessViewerVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\NavProcessStatus\obj\Debug\NavProcess.Client_MarkupCompile.cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\NavProcessStatus\obj\Debug\NavProcess.Client_MarkupCompile.lref
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\NavProcessStatus\obj\Debug\View\NavProcessViewerVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\NavProcessStatus\obj\Debug\NavProcess.Client.g.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\NavProcessStatus\obj\Debug\NavProcess.Client.Properties.Resources.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\NavProcessStatus\obj\Debug\NavProcessStatus.csproj.GenerateResource.Cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\NavProcessStatus\obj\Debug\NavProcess.Client.dll
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\NavProcessStatus\obj\Debug\NavProcess.Client.pdb
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\NavProcessStatus\obj\Debug\GeneratedInternalTypeHelper.g.cs

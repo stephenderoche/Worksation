@@ -1,0 +1,12 @@
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\TaxHarvestor\obj\Debug\View\TaxHarvestorSettingVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\TaxHarvestor\obj\Debug\View\TaxHarvestorSettingVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\TaxHarvestor\obj\Debug\View\TaxHarvestorViewerVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\TaxHarvestor\obj\Debug\TaxHarvestor.Client_MarkupCompile.cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\TaxHarvestor\obj\Debug\View\TaxHarvestorViewerVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\TaxHarvestor\obj\Debug\TaxHarvestor.Client.g.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\TaxHarvestor\obj\Debug\TaxHarvestor.Client.Properties.Resources.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\TaxHarvestor\obj\Debug\TaxHarvestor.csproj.GenerateResource.Cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\TaxHarvestor\obj\Debug\TaxHarvestor.Client.dll
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\TaxHarvestor\obj\Debug\TaxHarvestor.Client.pdb
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\TaxHarvestor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\TaxHarvestor\obj\Debug\TaxHarvestor.Client_MarkupCompile.lref

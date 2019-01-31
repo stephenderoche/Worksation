@@ -1,0 +1,4 @@
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.3.0.50903\bin\DashBoard\SalesSharedContracts.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.3.0.50903\bin\DashBoard\SalesSharedContracts.pdb
+C:\Sales_Engineering\Development - 753\Widgets 2_0\SalesSharedContracts\obj\Debug\SalesSharedContracts.dll
+C:\Sales_Engineering\Development - 753\Widgets 2_0\SalesSharedContracts\obj\Debug\SalesSharedContracts.pdb

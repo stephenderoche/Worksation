@@ -1,0 +1,16 @@
+C:\Sales_Engineering\Development - 753\sree\Release\bin\Plugins\Linedata.Framework.Client.TestWebBrowserWidget.dll
+C:\Sales_Engineering\Development - 753\sree\Release\bin\Plugins\Linedata.Framework.Client.TestWebBrowserWidget.pdb
+C:\Sales_Engineering\Development - 753\sree\TestApps\TestWebBrowserWidget\obj\Release\View\PluginSettingsDialog.g.cs
+C:\Sales_Engineering\Development - 753\sree\TestApps\TestWebBrowserWidget\obj\Release\View\WebBrowserView.g.cs
+C:\Sales_Engineering\Development - 753\sree\TestApps\TestWebBrowserWidget\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Sales_Engineering\Development - 753\sree\TestApps\TestWebBrowserWidget\obj\Release\Linedata.Framework.Client.TestWebBrowserWidget_MarkupCompile.cache
+C:\Sales_Engineering\Development - 753\sree\TestApps\TestWebBrowserWidget\obj\Release\Linedata.Framework.Client.TestWebBrowserWidget_MarkupCompile.lref
+C:\Sales_Engineering\Development - 753\sree\TestApps\TestWebBrowserWidget\obj\Release\View\PluginSettingsDialog.baml
+C:\Sales_Engineering\Development - 753\sree\TestApps\TestWebBrowserWidget\obj\Release\View\WebBrowserView.baml
+C:\Sales_Engineering\Development - 753\sree\TestApps\TestWebBrowserWidget\obj\Release\Linedata.Framework.Client.TestWebBrowserWidget.g.resources
+C:\Sales_Engineering\Development - 753\sree\TestApps\TestWebBrowserWidget\obj\Release\Linedata.Framework.Client.TestWebBrowserWidget.Resources.WebBrowserRes.resources
+C:\Sales_Engineering\Development - 753\sree\TestApps\TestWebBrowserWidget\obj\Release\Linedata.Framework.Client.TestWebBrowserWidget.csproj.GenerateResource.Cache
+C:\Sales_Engineering\Development - 753\sree\TestApps\TestWebBrowserWidget\obj\Release\Linedata.Framework.Client.TestWebBrowserWidget.dll
+C:\Sales_Engineering\Development - 753\sree\TestApps\TestWebBrowserWidget\obj\Release\Linedata.Framework.Client.TestWebBrowserWidget.pdb
+C:\Temp\devexpress17\Linedata.Framework.Client.TestWebBrowserWidget.dll
+C:\Temp\devexpress17\Linedata.Framework.Client.TestWebBrowserWidget.pdb

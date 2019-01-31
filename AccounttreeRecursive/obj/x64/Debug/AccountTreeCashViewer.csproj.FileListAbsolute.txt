@@ -1,0 +1,16 @@
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\AccountTreeCashViewer\obj\x64\Debug\View\AccountTreeView.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\AccountTreeCashViewer\obj\x64\Debug\View\AccountTreeCashViewerSettingView.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\AccountTreeCashViewer\obj\x64\Debug\View\AccountTreeView.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\AccountTreeCashViewer\obj\x64\Debug\View\AccountTreeCashViewerSettingView.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\AccountTreeCashViewer\obj\x64\Debug\AccountTreeCashViewer.Properties.Resources.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\AccountTreeCashViewer\obj\x64\Debug\AccountTreeCashViewer.csproj.GenerateResource.Cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\AccountTreeCashViewer\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Temp\devexpress17\AccountTreeCashViewer.Client.dll
+C:\Temp\devexpress17\AccountTreeCashViewer.Client.pdb
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\AccountTreeCashViewer\obj\x64\Debug\AccountTreeCashViewer.Client_MarkupCompile.cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\AccountTreeCashViewer\obj\x64\Debug\AccountTreeCashViewer.Client_MarkupCompile.lref
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\AccountTreeCashViewer\obj\x64\Debug\AccountTreeCashViewer.Client.g.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\AccountTreeCashViewer\obj\x64\Debug\AccountTreeCashViewer.Client.dll.licenses
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\AccountTreeCashViewer\obj\x64\Debug\AccountTreeCashViewer.Client.dll
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\AccountTreeCashViewer\obj\x64\Debug\AccountTreeCashViewer.Client.pdb
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\AccountTreeCashViewer\obj\x64\Debug\AccountTreeCashViewer.csprojResolveAssemblyReference.cache

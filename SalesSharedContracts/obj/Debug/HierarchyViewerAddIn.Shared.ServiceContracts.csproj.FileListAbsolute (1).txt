@@ -1,0 +1,22 @@
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.2.0.37500\bin\HierarchyViewer\HierarchyViewerAddIn.Shared.ServiceContracts.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.2.0.37500\bin\HierarchyViewer\HierarchyViewerAddIn.Shared.ServiceContracts.pdb
+C:\Sales_Engineering\Development - 752\TraderPlus\HierarchyWidget\ComplianceVierwerOnBlotter.Shared\obj\Debug\HierarchyViewerAddIn.Shared.ServiceContracts.dll
+C:\Sales_Engineering\Development - 752\TraderPlus\HierarchyWidget\ComplianceVierwerOnBlotter.Shared\obj\Debug\HierarchyViewerAddIn.Shared.ServiceContracts.pdb
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.2.0.37500\bin\Plugins\HierarchyViewerAddIn.Shared.ServiceContracts.dll
+C:\Sales_Engineering\Development - 752\TraderPlus\HierarchyWidget\ComplianceVierwerOnBlotter.Shared\obj\Debug\HierarchyViewerAddIn.Shared.ServiceContracts.csprojResolveAssemblyReference.cache
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.3.0.16300\bin\DashBoard\HierarchyViewerAddIn.Shared.ServiceContracts.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.3.0.16300\bin\DashBoard\HierarchyViewerAddIn.Shared.ServiceContracts.pdb
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.3.0.18300\bin\DashBoard\HierarchyViewerAddIn.Shared.ServiceContracts.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.3.0.18300\bin\DashBoard\HierarchyViewerAddIn.Shared.ServiceContracts.pdb
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.3.0.18900\bin\DashBoard\HierarchyViewerAddIn.Shared.ServiceContracts.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.3.0.18900\bin\DashBoard\HierarchyViewerAddIn.Shared.ServiceContracts.pdb
+C:\Sales_Engineering\Development - 753\DLL\HierarchyViewerAddIn.Shared.ServiceContracts.dll
+C:\Sales_Engineering\Development - 753\DLL\HierarchyViewerAddIn.Shared.ServiceContracts.pdb
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\ComplianceVierwerOnBlotter.Shared\obj\Debug\HierarchyViewerAddIn.Shared.ServiceContracts.dll
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\ComplianceVierwerOnBlotter.Shared\obj\Debug\HierarchyViewerAddIn.Shared.ServiceContracts.pdb
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.3.0.20900\bin\DashBoard\HierarchyViewerAddIn.Shared.ServiceContracts.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.3.0.20900\bin\DashBoard\HierarchyViewerAddIn.Shared.ServiceContracts.pdb
+C:\Sales_Engineering\Development - 753\TraderPlus\DLL_752\HierarchyViewerAddIn.Shared.ServiceContracts.dll
+C:\Sales_Engineering\Development - 753\TraderPlus\DLL_752\HierarchyViewerAddIn.Shared.ServiceContracts.pdb
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.3.0.24100\bin\DashBoard\HierarchyViewerAddIn.Shared.ServiceContracts.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.3.0.24100\bin\DashBoard\HierarchyViewerAddIn.Shared.ServiceContracts.pdb

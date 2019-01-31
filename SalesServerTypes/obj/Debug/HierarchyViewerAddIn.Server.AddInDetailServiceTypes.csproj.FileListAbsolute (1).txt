@@ -1,0 +1,20 @@
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.2.0.37500\bin\HierarchyViewer\HierarchyViewerAddIn.Server.AddInDetailServiceTypes.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.2.0.37500\bin\HierarchyViewer\HierarchyViewerAddIn.Server.AddInDetailServiceTypes.pdb
+C:\Sales_Engineering\Development - 752\TraderPlus\HierarchyWidget\ComplianceVierwerOnBlotter.Server\obj\Debug\HierarchyViewerAddIn.Server.AddInDetailServiceTypes.dll
+C:\Sales_Engineering\Development - 752\TraderPlus\HierarchyWidget\ComplianceVierwerOnBlotter.Server\obj\Debug\HierarchyViewerAddIn.Server.AddInDetailServiceTypes.pdb
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.2.0.37500\bin\Plugins\HierarchyViewerAddIn.Server.AddInDetailServiceTypes.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.2.0.37500\bin\Plugins\HierarchyViewerAddIn.Server.AddInDetailServiceTypes.pdb
+C:\Sales_Engineering\Development - 752\TraderPlus\HierarchyWidget\ComplianceVierwerOnBlotter.Server\obj\Debug\HierarchyViewerAddIn.Server.AddInDetailServiceTypes.csprojResolveAssemblyReference.cache
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.3.0.16300\bin\DashBoard\HierarchyViewerAddIn.Server.AddInDetailServiceTypes.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.3.0.16300\bin\DashBoard\HierarchyViewerAddIn.Server.AddInDetailServiceTypes.pdb
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.3.0.18300\bin\DashBoard\HierarchyViewerAddIn.Server.AddInDetailServiceTypes.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.3.0.18300\bin\DashBoard\HierarchyViewerAddIn.Server.AddInDetailServiceTypes.pdb
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.3.0.18900\bin\DashBoard\HierarchyViewerAddIn.Server.AddInDetailServiceTypes.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.3.0.18900\bin\DashBoard\HierarchyViewerAddIn.Server.AddInDetailServiceTypes.pdb
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\ComplianceVierwerOnBlotter.Server\obj\Debug\HierarchyViewerAddIn.Server.AddInDetailServiceTypes.dll
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\ComplianceVierwerOnBlotter.Server\obj\Debug\HierarchyViewerAddIn.Server.AddInDetailServiceTypes.pdb
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\ComplianceVierwerOnBlotter.Server\obj\Debug\HierarchyViewerAddIn.Server.AddInDetailServiceTypes.csprojResolveAssemblyReference.cache
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.3.0.20900\bin\DashBoard\HierarchyViewerAddIn.Server.AddInDetailServiceTypes.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.3.0.20900\bin\DashBoard\HierarchyViewerAddIn.Server.AddInDetailServiceTypes.pdb
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.3.0.24100\bin\DashBoard\HierarchyViewerAddIn.Server.AddInDetailServiceTypes.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\75.3.0.24100\bin\DashBoard\HierarchyViewerAddIn.Server.AddInDetailServiceTypes.pdb

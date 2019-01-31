@@ -1,0 +1,11 @@
+C:\Workspace\Linedata Trading\75.3.0.16300\Dashboard\Widgets\Linedata.Framework.Client.TabDataPublisher.dll
+C:\Temp\tree\Linedata.Framework.Client.TabDataPublisher.dll
+C:\Temp\tree\Linedata.Framework.Client.TabDataPublisher.pdb
+C:\Workspace\Linedata Trading\75.3.0.16300\Dashboard\Widgets\Linedata.Framework.Client.TabDataPublisher.pdb
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\AccountTreeViewer\obj\Debug\AccountTreeViewer.csprojResolveAssemblyReference.cache
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\AccountTreeViewer\obj\Debug\TabDataPublisherVisual.baml
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\AccountTreeViewer\obj\Debug\TabDataPublisherVisual.g.cs
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\AccountTreeViewer\obj\Debug\Linedata.Framework.Client.TabDataPublisher_MarkupCompile.cache
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\AccountTreeViewer\obj\Debug\Linedata.Framework.Client.TabDataPublisher.g.resources
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\AccountTreeViewer\obj\Debug\Linedata.Framework.Client.TabDataPublisher.dll
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\AccountTreeViewer\obj\Debug\Linedata.Framework.Client.TabDataPublisher.pdb

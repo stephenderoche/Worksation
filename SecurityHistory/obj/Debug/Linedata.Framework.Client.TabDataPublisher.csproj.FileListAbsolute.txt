@@ -1,0 +1,20 @@
+C:\Work\Longview\Version_75\TestApps\TabDataPublisher\obj\Debug\Linedata.Framework.Client.TabDataPublisher.csprojResolveAssemblyReference.cache
+C:\Work\Longview\Version_75\TestApps\TabDataPublisher\obj\Debug\TabDataPublisherVisual.baml
+C:\Work\Longview\Version_75\TestApps\TabDataPublisher\obj\Debug\TabDataPublisherVisual.g.cs
+C:\Work\Longview\Version_75\TestApps\TabDataPublisher\obj\Debug\Linedata.Framework.Client.TabDataPublisher_MarkupCompile.cache
+C:\Work\Longview\Version_75\TestApps\TabDataPublisher\obj\Debug\Linedata.Framework.Client.TabDataPublisher.g.resources
+C:\Work\Longview\Version_75\Debug\Bin\Plugins\Linedata.Framework.Client.TabDataPublisher.dll
+C:\Work\Longview\Version_75\Debug\Bin\Plugins\Linedata.Framework.Client.TabDataPublisher.pdb
+C:\Work\Longview\Version_75\TestApps\TabDataPublisher\obj\Debug\Linedata.Framework.Client.TabDataPublisher.dll
+C:\Work\Longview\Version_75\TestApps\TabDataPublisher\obj\Debug\Linedata.Framework.Client.TabDataPublisher.pdb
+C:\Sales_Engineering\Development - 753\sree\TestApps\TabDataPublisher\obj\Debug\Linedata.Framework.Client.TabDataPublisher.csprojResolveAssemblyReference.cache
+C:\Sales_Engineering\Development - 753\sree\TestApps\TabDataPublisher\obj\Debug\TabDataPublisherVisual.baml
+C:\Sales_Engineering\Development - 753\sree\TestApps\TabDataPublisher\obj\Debug\TabDataPublisherVisual.g.cs
+C:\Sales_Engineering\Development - 753\sree\TestApps\TabDataPublisher\obj\Debug\Linedata.Framework.Client.TabDataPublisher_MarkupCompile.cache
+C:\Sales_Engineering\Development - 753\sree\TestApps\TabDataPublisher\obj\Debug\Linedata.Framework.Client.TabDataPublisher.g.resources
+C:\Sales_Engineering\Development - 753\sree\TestApps\TabDataPublisher\obj\Debug\Linedata.Framework.Client.TabDataPublisher.dll
+C:\Sales_Engineering\Development - 753\sree\TestApps\TabDataPublisher\obj\Debug\Linedata.Framework.Client.TabDataPublisher.pdb
+C:\Sales_Engineering\Development - 753\sree\Debug\Bin\Plugins\Linedata.Framework.Client.TabDataPublisher.dll
+C:\Sales_Engineering\Development - 753\sree\Debug\Bin\Plugins\Linedata.Framework.Client.TabDataPublisher.pdb
+C:\Workspace\Linedata Trading\75.3.0.16300\Dashboard\Widgets\Linedata.Framework.Client.TabDataPublisher.dll
+C:\Workspace\Linedata Trading\75.3.0.16300\Dashboard\Widgets\Linedata.Framework.Client.TabDataPublisher.pdb

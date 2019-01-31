@@ -1,0 +1,9 @@
+C:\Sales_Engineering\Development\CashViewerTraderBlotter\CashViewerTraderBlotter\Server\obj\Debug\TraderBlotterCashViewerAddIn.Server.AddInDetailServiceTypes.csprojResolveAssemblyReference.cache
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.9000\bin\TraderBlotterCashViewer\TraderBlotterCashViewerAddIn.Server.AddInDetailServiceTypes.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.9000\bin\TraderBlotterCashViewer\TraderBlotterCashViewerAddIn.Server.AddInDetailServiceTypes.pdb
+C:\Sales_Engineering\Development\CashViewerTraderBlotter\CashViewerTraderBlotter\Server\obj\Debug\TraderBlotterCashViewerAddIn.Server.AddInDetailServiceTypes.dll
+C:\Sales_Engineering\Development\CashViewerTraderBlotter\CashViewerTraderBlotter\Server\obj\Debug\TraderBlotterCashViewerAddIn.Server.AddInDetailServiceTypes.pdb
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.16600\bin\TraderBlotterCashViewer\TraderBlotterCashViewerAddIn.Server.AddInDetailServiceTypes.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.16600\bin\TraderBlotterCashViewer\TraderBlotterCashViewerAddIn.Server.AddInDetailServiceTypes.pdb
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.99\bin\TraderBlotterCashViewer\TraderBlotterCashViewerAddIn.Server.AddInDetailServiceTypes.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.99\bin\TraderBlotterCashViewer\TraderBlotterCashViewerAddIn.Server.AddInDetailServiceTypes.pdb

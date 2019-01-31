@@ -1,0 +1,22 @@
+E:\Workstation\Development\Widgets\TestSample\Linedata.Client.Widget.TestSampleWidget\obj\x64\Debug\Linedata.Client.Widget.TestSampleWidget.csprojResolveAssemblyReference.cache
+E:\Workstation\Development\Widgets\TestSample\Linedata.Client.Widget.TestSampleWidget\obj\x64\Debug\View\TestSampleView.baml
+E:\Workstation\Development\Widgets\TestSample\Linedata.Client.Widget.TestSampleWidget\obj\x64\Debug\View\TestSampleView.g.cs
+E:\Workstation\Development\Widgets\TestSample\Linedata.Client.Widget.TestSampleWidget\obj\x64\Debug\Linedata.Client.Widget.TestSampleWidget_MarkupCompile.cache
+E:\Workstation\Development\Widgets\TestSample\Linedata.Client.Widget.TestSampleWidget\obj\x64\Debug\Linedata.Client.Widget.TestSampleWidget.g.resources
+C:\Workstation\widgets\Linedata.Client.Widget.TestSampleWidget.dll
+C:\Workstation\widgets\Linedata.Client.Widget.TestSampleWidget.pdb
+E:\Workstation\Development\Widgets\TestSample\Linedata.Client.Widget.TestSampleWidget\obj\x64\Debug\Linedata.Client.Widget.TestSampleWidget.dll
+E:\Workstation\Development\Widgets\TestSample\Linedata.Client.Widget.TestSampleWidget\obj\x64\Debug\Linedata.Client.Widget.TestSampleWidget.pdb
+C:\Temp\sampleWidget\Linedata.Client.Widget.TestSampleWidget.dll
+C:\Temp\sampleWidget\Linedata.Client.Widget.TestSampleWidget.pdb
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Linedata.Client.Widget.TestSampleWidget\obj\x64\Debug\View\TestSampleView.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Linedata.Client.Widget.TestSampleWidget\obj\x64\Debug\View\TestSampleViewerSettingView.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Linedata.Client.Widget.TestSampleWidget\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Linedata.Client.Widget.TestSampleWidget\obj\x64\Debug\Linedata.Client.Widget.TestSampleWidget_MarkupCompile.cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Linedata.Client.Widget.TestSampleWidget\obj\x64\Debug\Linedata.Client.Widget.TestSampleWidget_MarkupCompile.lref
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Linedata.Client.Widget.TestSampleWidget\obj\x64\Debug\View\TestSampleView.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Linedata.Client.Widget.TestSampleWidget\obj\x64\Debug\View\TestSampleViewerSettingView.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Linedata.Client.Widget.TestSampleWidget\obj\x64\Debug\Linedata.Client.Widget.TestSampleWidget.g.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Linedata.Client.Widget.TestSampleWidget\obj\x64\Debug\Linedata.Client.Widget.TestSampleWidget.dll.licenses
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Linedata.Client.Widget.TestSampleWidget\obj\x64\Debug\Linedata.Client.Widget.TestSampleWidget.dll
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Linedata.Client.Widget.TestSampleWidget\obj\x64\Debug\Linedata.Client.Widget.TestSampleWidget.pdb

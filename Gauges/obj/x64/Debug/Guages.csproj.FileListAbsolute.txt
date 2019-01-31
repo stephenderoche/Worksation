@@ -1,0 +1,12 @@
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Gauges\obj\x64\Debug\View\GuagesView.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Gauges\obj\x64\Debug\View\TestSampleViewerSettingView.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Gauges\obj\x64\Debug\View\GuagesView.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Gauges\obj\x64\Debug\View\TestSampleViewerSettingView.baml
+C:\Temp\devexpress17\Guages.Client.dll
+C:\Temp\devexpress17\Guages.Client.pdb
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Gauges\obj\x64\Debug\Guages.Client_MarkupCompile.cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Gauges\obj\x64\Debug\Guages.Client_MarkupCompile.lref
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Gauges\obj\x64\Debug\Guages.Client.g.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Gauges\obj\x64\Debug\Guages.Client.dll.licenses
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Gauges\obj\x64\Debug\Guages.Client.dll
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Gauges\obj\x64\Debug\Guages.Client.pdb

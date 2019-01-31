@@ -1,0 +1,40 @@
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Reporting\obj\Debug\View\CommissionViewerReport.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Reporting\obj\Debug\View\ReportSettingVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Reporting\obj\Debug\View\CommissionViewerReport.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Reporting\obj\Debug\View\ReportSettingVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Reporting\obj\Debug\View\ReportingVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Reporting\obj\Debug\Reporting.Client_MarkupCompile.cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Reporting\obj\Debug\Reporting.Client_MarkupCompile.lref
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Reporting\obj\Debug\View\ReportingVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Reporting\obj\Debug\Reporting.Client.g.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Reporting\obj\Debug\Reporting.Client.Properties.Resources.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Reporting\obj\Debug\Reporting.Client.ReportByAccountBrokerReason.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Reporting\obj\Debug\Reporting.Client.ReportByAccountReason.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Reporting\obj\Debug\Reporting.Client.ReportByBroker.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Reporting\obj\Debug\Reporting.ReportByBrokerReason.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Reporting\obj\Debug\Reporting.Client.ReportAccountSummary.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Reporting\obj\Debug\Reporting.csproj.GenerateResource.Cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Reporting\obj\Debug\Reporting.Client.dll.licenses
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Reporting\obj\Debug\Reporting.Client.dll
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Reporting\obj\Debug\Reporting.Client.pdb
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\Reporting\obj\Debug\Reporting.csprojResolveAssemblyReference.cache
+C:\sales_engineering\Development - 753\Workstation\Widgets\Reporting\obj\Debug\Reporting.csprojResolveAssemblyReference.cache
+C:\sales_engineering\Development - 753\Workstation\Widgets\Reporting\obj\Debug\View\CommissionViewerReport.baml
+C:\sales_engineering\Development - 753\Workstation\Widgets\Reporting\obj\Debug\View\ReportSettingVisual.baml
+C:\sales_engineering\Development - 753\Workstation\Widgets\Reporting\obj\Debug\View\CommissionViewerReport.g.cs
+C:\sales_engineering\Development - 753\Workstation\Widgets\Reporting\obj\Debug\View\ReportSettingVisual.g.cs
+C:\sales_engineering\Development - 753\Workstation\Widgets\Reporting\obj\Debug\View\ReportingVisual.g.cs
+C:\sales_engineering\Development - 753\Workstation\Widgets\Reporting\obj\Debug\Reporting.Client_MarkupCompile.cache
+C:\sales_engineering\Development - 753\Workstation\Widgets\Reporting\obj\Debug\Reporting.Client_MarkupCompile.lref
+C:\sales_engineering\Development - 753\Workstation\Widgets\Reporting\obj\Debug\View\ReportingVisual.baml
+C:\sales_engineering\Development - 753\Workstation\Widgets\Reporting\obj\Debug\Reporting.Client.g.resources
+C:\sales_engineering\Development - 753\Workstation\Widgets\Reporting\obj\Debug\Reporting.Client.Properties.Resources.resources
+C:\sales_engineering\Development - 753\Workstation\Widgets\Reporting\obj\Debug\Reporting.Client.ReportByAccountBrokerReason.resources
+C:\sales_engineering\Development - 753\Workstation\Widgets\Reporting\obj\Debug\Reporting.Client.ReportByAccountReason.resources
+C:\sales_engineering\Development - 753\Workstation\Widgets\Reporting\obj\Debug\Reporting.Client.ReportByBroker.resources
+C:\sales_engineering\Development - 753\Workstation\Widgets\Reporting\obj\Debug\Reporting.ReportByBrokerReason.resources
+C:\sales_engineering\Development - 753\Workstation\Widgets\Reporting\obj\Debug\Reporting.Client.ReportAccountSummary.resources
+C:\sales_engineering\Development - 753\Workstation\Widgets\Reporting\obj\Debug\Reporting.csproj.GenerateResource.Cache
+C:\sales_engineering\Development - 753\Workstation\Widgets\Reporting\obj\Debug\Reporting.Client.dll.licenses
+C:\sales_engineering\Development - 753\Workstation\Widgets\Reporting\obj\Debug\Reporting.Client.dll
+C:\sales_engineering\Development - 753\Workstation\Widgets\Reporting\obj\Debug\Reporting.Client.pdb

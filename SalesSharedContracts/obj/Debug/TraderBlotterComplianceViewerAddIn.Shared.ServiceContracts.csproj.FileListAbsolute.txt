@@ -1,0 +1,13 @@
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.99\bin\TraderBlotterComplianceViewer\TraderBlotterComplianceViewerAddIn.Shared.ServiceContracts.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.99\bin\TraderBlotterComplianceViewer\TraderBlotterComplianceViewerAddIn.Shared.ServiceContracts.pdb
+C:\Sales_Engineering\Development\IntradeCompliance\ComplianceViewerOnBlotter\ComplianceVierwerOnBlotter\ComplianceVierwerOnBlotter.Shared\obj\Debug\TraderBlotterComplianceViewerAddIn.Shared.ServiceContracts.dll
+C:\Sales_Engineering\Development\IntradeCompliance\ComplianceViewerOnBlotter\ComplianceVierwerOnBlotter\ComplianceVierwerOnBlotter.Shared\obj\Debug\TraderBlotterComplianceViewerAddIn.Shared.ServiceContracts.pdb
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.99\bin\TBComplianceViewer\TraderBlotterComplianceViewerAddIn.Shared.ServiceContracts.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.99\bin\TBComplianceViewer\TraderBlotterComplianceViewerAddIn.Shared.ServiceContracts.pdb
+C:\Sales_Engineering\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.99\bin\Plugins\TraderBlotterComplianceViewerAddIn.Shared.ServiceContracts.dll
+C:\Sales_Engineering\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.99\bin\Plugins\TraderBlotterComplianceViewerAddIn.Shared.ServiceContracts.pdb
+C:\Sales_Engineering\Development\IntradeCompliance\ComplianceViewerOnBlotterTPlus\ComplianceVierwerOnBlotter.Shared\obj\Debug\TraderBlotterComplianceViewerAddIn.Shared.ServiceContracts.csprojResolveAssemblyReference.cache
+C:\Sales_Engineering\Development\IntradeCompliance\ComplianceViewerOnBlotterTPlus\ComplianceVierwerOnBlotter.Shared\obj\Debug\TraderBlotterComplianceViewerAddIn.Shared.ServiceContracts.dll
+C:\Sales_Engineering\Development\IntradeCompliance\ComplianceViewerOnBlotterTPlus\ComplianceVierwerOnBlotter.Shared\obj\Debug\TraderBlotterComplianceViewerAddIn.Shared.ServiceContracts.pdb
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.99\bin\Plugins\TraderBlotterComplianceViewerAddIn.Shared.ServiceContracts.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.99\bin\Plugins\TraderBlotterComplianceViewerAddIn.Shared.ServiceContracts.pdb

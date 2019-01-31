@@ -1,0 +1,14 @@
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DriftTool\obj\Debug\View\DriftToolSettingVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DriftTool\obj\Debug\View\DriftToolSettingVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DriftTool\obj\Debug\View\DriftToolViewerVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DriftTool\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Temp\devexpress17\DriftTool.Client.dll
+C:\Temp\devexpress17\DriftTool.Client.pdb
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DriftTool\obj\Debug\DriftTool.Client_MarkupCompile.cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DriftTool\obj\Debug\DriftTool.Client_MarkupCompile.lref
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DriftTool\obj\Debug\View\DriftToolViewerVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DriftTool\obj\Debug\DriftTool.Client.g.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DriftTool\obj\Debug\DriftTool.Client.Properties.Resources.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DriftTool\obj\Debug\DriftToolViewer.csproj.GenerateResource.Cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DriftTool\obj\Debug\DriftTool.Client.dll
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DriftTool\obj\Debug\DriftTool.Client.pdb

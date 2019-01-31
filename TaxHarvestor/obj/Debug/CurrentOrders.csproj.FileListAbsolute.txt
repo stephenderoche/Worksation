@@ -1,0 +1,16 @@
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CurrentOrders\obj\Debug\View\CurrentOrdersSettingVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CurrentOrders\obj\Debug\View\CurrentOrdersSettingVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CurrentOrders\obj\Debug\View\CurrentOrdersViewerVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CurrentOrders\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CurrentOrders\obj\Debug\CurrentOrders.Client_MarkupCompile.cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CurrentOrders\obj\Debug\CurrentOrders.Client_MarkupCompile.lref
+C:\Temp\devexpress17\CurrentOrders.Client.dll
+C:\Temp\devexpress17\CurrentOrders.Client.pdb
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CurrentOrders\obj\Debug\View\CurrentOrdersViewerVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CurrentOrders\obj\Debug\CurrentOrders.Client.g.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CurrentOrders\obj\Debug\CurrentOrders.Client.Properties.Resources.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CurrentOrders\obj\Debug\CurrentOrders.csproj.GenerateResource.Cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CurrentOrders\obj\Debug\CurrentOrders.Client.dll
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CurrentOrders\obj\Debug\CurrentOrders.Client.pdb
+C:\Temp\devexpress17\CurrentOrders.Client.dll.config
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CurrentOrders\obj\Debug\CurrentOrders.csprojResolveAssemblyReference.cache

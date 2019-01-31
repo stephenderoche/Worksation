@@ -1,0 +1,17 @@
+C:\Sales_Engineering\Development - 753\Widgets 2_0\NavContingentDashBoard\obj\Debug\View\NavContingentDashBoardSettingVisual.baml
+C:\Sales_Engineering\Development - 753\Widgets 2_0\NavContingentDashBoard\obj\Debug\View\NavContingentDashBoardSettingVisual.g.cs
+C:\Sales_Engineering\Development - 753\Widgets 2_0\NavContingentDashBoard\obj\Debug\View\NavContingentDashBoardVisual.g.cs
+C:\Sales_Engineering\Development - 753\Widgets 2_0\NavContingentDashBoard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Sales_Engineering\Development - 753\Widgets 2_0\NavContingentDashBoard\obj\Debug\NavContingentDashBoard.Client_MarkupCompile.cache
+C:\Sales_Engineering\Development - 753\Widgets 2_0\NavContingentDashBoard\obj\Debug\NavContingentDashBoard.Client_MarkupCompile.lref
+C:\Sales_Engineering\Development - 753\Widgets 2_0\NavContingentDashBoard\obj\Debug\View\NavContingentDashBoardVisual.baml
+C:\Sales_Engineering\Development - 753\Widgets 2_0\NavContingentDashBoard\obj\Debug\NavContingentDashBoard.Client.g.resources
+C:\Sales_Engineering\Development - 753\Widgets 2_0\NavContingentDashBoard\obj\Debug\NavContingentDashBoard.Client.Properties.Resources.resources
+C:\Sales_Engineering\Development - 753\Widgets 2_0\NavContingentDashBoard\obj\Debug\NavContingentDashBoard.csproj.GenerateResource.Cache
+C:\Sales_Engineering\Development - 753\Widgets 2_0\NavContingentDashBoard\obj\Debug\NavContingentDashBoard.Client.dll.licenses
+C:\Sales_Engineering\Development - 753\Widgets 2_0\NavContingentDashBoard\obj\Debug\NavContingentDashBoard.Client.pdb
+C:\Temp\devexpress17\NavContingentDashBoard.Client.dll.config
+C:\Temp\devexpress17\NavContingentDashBoard.Client.dll
+C:\Temp\devexpress17\NavContingentDashBoard.Client.pdb
+C:\Sales_Engineering\Development - 753\Widgets 2_0\NavContingentDashBoard\obj\Debug\NavContingentDashBoard.Client.dll
+C:\Sales_Engineering\Development - 753\Widgets 2_0\NavContingentDashBoard\obj\Debug\NavContingentDashBoard.csprojResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\GenericGridViewer\obj\Debug\View\GenericGrisSettingVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\GenericGridViewer\obj\Debug\View\GenericGrisSettingVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\GenericGridViewer\obj\Debug\View\GenericGridViewerVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\GenericGridViewer\obj\Debug\GenericGrid.Client_MarkupCompile.cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\GenericGridViewer\obj\Debug\GenericGrid.Client_MarkupCompile.lref
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\GenericGridViewer\obj\Debug\View\GenericGridViewerVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\GenericGridViewer\obj\Debug\GenericGrid.Client.g.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\GenericGridViewer\obj\Debug\GenericGrid.Client.Properties.Resources.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\GenericGridViewer\obj\Debug\GenericGridViewer.csproj.GenerateResource.Cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\GenericGridViewer\obj\Debug\GenericGrid.Client.dll
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\GenericGridViewer\obj\Debug\GenericGrid.Client.pdb
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\GenericGridViewer\obj\Debug\GenericGridViewer.csprojResolveAssemblyReference.cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\GenericGridViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\sales_engineering\Development - 753\Workstation\Widgets\GenericGridViewer\obj\Debug\GenericGridViewer.csprojResolveAssemblyReference.cache
+C:\sales_engineering\Development - 753\Workstation\Widgets\GenericGridViewer\obj\Debug\View\GenericGrisSettingVisual.baml
+C:\sales_engineering\Development - 753\Workstation\Widgets\GenericGridViewer\obj\Debug\View\GenericGrisSettingVisual.g.cs
+C:\sales_engineering\Development - 753\Workstation\Widgets\GenericGridViewer\obj\Debug\View\GenericGridViewerVisual.g.cs
+C:\sales_engineering\Development - 753\Workstation\Widgets\GenericGridViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\sales_engineering\Development - 753\Workstation\Widgets\GenericGridViewer\obj\Debug\GenericGrid.Client_MarkupCompile.cache
+C:\sales_engineering\Development - 753\Workstation\Widgets\GenericGridViewer\obj\Debug\GenericGrid.Client_MarkupCompile.lref
+C:\sales_engineering\Development - 753\Workstation\Widgets\GenericGridViewer\obj\Debug\View\GenericGridViewerVisual.baml
+C:\sales_engineering\Development - 753\Workstation\Widgets\GenericGridViewer\obj\Debug\GenericGrid.Client.g.resources
+C:\sales_engineering\Development - 753\Workstation\Widgets\GenericGridViewer\obj\Debug\GenericGrid.Client.Properties.Resources.resources
+C:\sales_engineering\Development - 753\Workstation\Widgets\GenericGridViewer\obj\Debug\GenericGridViewer.csproj.GenerateResource.Cache
+C:\sales_engineering\Development - 753\Workstation\Widgets\GenericGridViewer\obj\Debug\GenericGrid.Client.dll
+C:\sales_engineering\Development - 753\Workstation\Widgets\GenericGridViewer\obj\Debug\GenericGrid.Client.pdb

@@ -1,0 +1,12 @@
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\NavValidationViewer.Client\obj\Debug\View\NavValidationSettingVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\NavValidationViewer.Client\obj\Debug\View\NavValidationSettingVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\NavValidationViewer.Client\obj\Debug\View\NavValidationViewerVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\NavValidationViewer.Client\obj\Debug\NavValidationViewer.Client_MarkupCompile.cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\NavValidationViewer.Client\obj\Debug\NavValidationViewer.Client_MarkupCompile.lref
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\NavValidationViewer.Client\obj\Debug\View\NavValidationViewerVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\NavValidationViewer.Client\obj\Debug\NavValidationViewer.Client.g.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\NavValidationViewer.Client\obj\Debug\NavValidationViewer.Client.Properties.Resources.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\NavValidationViewer.Client\obj\Debug\NavValidationViewer.csproj.GenerateResource.Cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\NavValidationViewer.Client\obj\Debug\NavValidationViewer.Client.dll
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\NavValidationViewer.Client\obj\Debug\NavValidationViewer.Client.pdb
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\NavValidationViewer.Client\obj\Debug\GeneratedInternalTypeHelper.g.cs

@@ -1,0 +1,33 @@
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\ModelHelper\obj\Debug\ModelHelper.csprojResolveAssemblyReference.cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\ModelHelper\obj\Debug\View\ModelHelperSettingVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\ModelHelper\obj\Debug\View\ModelHelperSettingVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\ModelHelper\obj\Debug\View\ModelHelperVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\ModelHelper\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\ModelHelper\obj\Debug\ModelHelper.Client_MarkupCompile.cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\ModelHelper\obj\Debug\ModelHelper.Client_MarkupCompile.lref
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\ModelHelper\obj\Debug\View\ModelHelperVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\ModelHelper\obj\Debug\ModelHelper.Client.g.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\ModelHelper\obj\Debug\ModelHelper.Client.Properties.Resources.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\ModelHelper\obj\Debug\ModelHelper.csproj.GenerateResource.Cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\ModelHelper\obj\Debug\ModelHelper.Client.dll.licenses
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\ModelHelper\obj\Debug\ModelHelper.Client.dll
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\ModelHelper\obj\Debug\ModelHelper.Client.pdb
+C:\Sales_Engineering\Development - 753\Widgets 2_0\ModelHelper\obj\Debug\View\ModelHelperSettingVisual.baml
+C:\Sales_Engineering\Development - 753\Widgets 2_0\ModelHelper\obj\Debug\View\ModelHelperSettingVisual.g.cs
+C:\Sales_Engineering\Development - 753\Widgets 2_0\ModelHelper\obj\Debug\View\ModelHelperVisual.g.cs
+C:\Sales_Engineering\Development - 753\Widgets 2_0\ModelHelper\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Sales_Engineering\Development - 753\Widgets 2_0\ModelHelper\obj\Debug\ModelHelper.Client_MarkupCompile.cache
+C:\Sales_Engineering\Development - 753\Widgets 2_0\ModelHelper\obj\Debug\ModelHelper.Client_MarkupCompile.lref
+C:\Temp\devexpress17\ModelHelper.Client.dll.config
+C:\Temp\devexpress17\ModelHelper.Client.dll
+C:\Temp\devexpress17\ModelHelper.Client.pdb
+C:\Sales_Engineering\Development - 753\Widgets 2_0\ModelHelper\obj\Debug\View\ModelHelperVisual.baml
+C:\Sales_Engineering\Development - 753\Widgets 2_0\ModelHelper\obj\Debug\ModelHelper.Client.g.resources
+C:\Sales_Engineering\Development - 753\Widgets 2_0\ModelHelper\obj\Debug\ModelHelper.Client.Properties.Resources.resources
+C:\Sales_Engineering\Development - 753\Widgets 2_0\ModelHelper\obj\Debug\ModelHelper.csproj.GenerateResource.Cache
+C:\Sales_Engineering\Development - 753\Widgets 2_0\ModelHelper\obj\Debug\ModelHelper.Client.dll.licenses
+C:\Sales_Engineering\Development - 753\Widgets 2_0\ModelHelper\obj\Debug\ModelHelper.Client.dll
+C:\Sales_Engineering\Development - 753\Widgets 2_0\ModelHelper\obj\Debug\ModelHelper.Client.pdb
+C:\Sales_Engineering\Development - 753\Widgets 2_0\ModelHelper\obj\Debug\View\UpdateSecurityTargets.baml
+C:\Sales_Engineering\Development - 753\Widgets 2_0\ModelHelper\obj\Debug\View\UpdateSecurityTargets.g.cs
+C:\Sales_Engineering\Development - 753\Widgets 2_0\ModelHelper\obj\Debug\ModelHelper.csprojResolveAssemblyReference.cache

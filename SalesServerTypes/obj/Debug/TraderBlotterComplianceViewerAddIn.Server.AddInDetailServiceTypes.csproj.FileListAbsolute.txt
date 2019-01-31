@@ -1,0 +1,16 @@
+C:\Sales_Engineering\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.99\bin\TraderBlotterCashViewer\TraderBlotterComplianceViewerAddIn.Server.AddInDetailServiceTypes.dll
+C:\Sales_Engineering\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.99\bin\TraderBlotterCashViewer\TraderBlotterComplianceViewerAddIn.Server.AddInDetailServiceTypes.pdb
+C:\Sales_Engineering\Development\IntradeCompliance\ComplianceViewerOnBlotter\ComplianceVierwerOnBlotter\ComplianceVierwerOnBlotter.Server\obj\Debug\TraderBlotterComplianceViewerAddIn.Server.AddInDetailServiceTypes.csprojResolveAssemblyReference.cache
+C:\Sales_Engineering\Development\IntradeCompliance\ComplianceViewerOnBlotter\ComplianceVierwerOnBlotter\ComplianceVierwerOnBlotter.Server\obj\Debug\TraderBlotterComplianceViewerAddIn.Server.AddInDetailServiceTypes.dll
+C:\Sales_Engineering\Development\IntradeCompliance\ComplianceViewerOnBlotter\ComplianceVierwerOnBlotter\ComplianceVierwerOnBlotter.Server\obj\Debug\TraderBlotterComplianceViewerAddIn.Server.AddInDetailServiceTypes.pdb
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.99\bin\TraderBlotterComplianceViewer\TraderBlotterComplianceViewerAddIn.Server.AddInDetailServiceTypes.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.99\bin\TraderBlotterComplianceViewer\TraderBlotterComplianceViewerAddIn.Server.AddInDetailServiceTypes.pdb
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.99\bin\TBComplianceViewer\TraderBlotterComplianceViewerAddIn.Server.AddInDetailServiceTypes.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.99\bin\TBComplianceViewer\TraderBlotterComplianceViewerAddIn.Server.AddInDetailServiceTypes.pdb
+C:\Sales_Engineering\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.99\bin\Plugins\TraderBlotterComplianceViewerAddIn.Server.AddInDetailServiceTypes.dll
+C:\Sales_Engineering\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.99\bin\Plugins\TraderBlotterComplianceViewerAddIn.Server.AddInDetailServiceTypes.pdb
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.99\bin\Plugins\TraderBlotterComplianceViewerAddIn.Server.AddInDetailServiceTypes.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.99\bin\Plugins\TraderBlotterComplianceViewerAddIn.Server.AddInDetailServiceTypes.pdb
+C:\Sales_Engineering\Development\IntradeCompliance\ComplianceViewerOnBlotterTPlus\ComplianceVierwerOnBlotter.Server\obj\Debug\TraderBlotterComplianceViewerAddIn.Server.AddInDetailServiceTypes.csprojResolveAssemblyReference.cache
+C:\Sales_Engineering\Development\IntradeCompliance\ComplianceViewerOnBlotterTPlus\ComplianceVierwerOnBlotter.Server\obj\Debug\TraderBlotterComplianceViewerAddIn.Server.AddInDetailServiceTypes.dll
+C:\Sales_Engineering\Development\IntradeCompliance\ComplianceViewerOnBlotterTPlus\ComplianceVierwerOnBlotter.Server\obj\Debug\TraderBlotterComplianceViewerAddIn.Server.AddInDetailServiceTypes.pdb

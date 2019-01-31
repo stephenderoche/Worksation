@@ -1,0 +1,17 @@
+C:\Temp\devexpress17\CommissionViewer.Client.dll.config
+C:\Temp\devexpress17\CommissionViewer.Client.dll
+C:\Temp\devexpress17\CommissionViewer.Client.pdb
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CommissionViewer\obj\Debug\View\CommissionViewerSettingVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CommissionViewer\obj\Debug\View\CommissionViewerSettingVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CommissionViewer\obj\Debug\View\CommissionViewerVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CommissionViewer\obj\Debug\CommissionViewer.Client_MarkupCompile.cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CommissionViewer\obj\Debug\CommissionViewer.Client_MarkupCompile.lref
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CommissionViewer\obj\Debug\View\CommissionViewerVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CommissionViewer\obj\Debug\CommissionViewer.Client.g.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CommissionViewer\obj\Debug\CommissionViewer.Client.Properties.Resources.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CommissionViewer\obj\Debug\CommissionViewer.csproj.GenerateResource.Cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CommissionViewer\obj\Debug\CommissionViewer.Client.dll
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CommissionViewer\obj\Debug\CommissionViewer.Client.pdb
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CommissionViewer\obj\Debug\View\BrokerLookup.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CommissionViewer\obj\Debug\View\BrokerLookup.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CommissionViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs

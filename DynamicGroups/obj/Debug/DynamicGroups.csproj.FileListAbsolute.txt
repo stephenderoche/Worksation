@@ -1,0 +1,12 @@
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DynamicGroups\obj\Debug\View\DynamicGroupsSettingVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DynamicGroups\obj\Debug\View\DynamicGroupsSettingVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DynamicGroups\obj\Debug\View\DynamicGroupsVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DynamicGroups\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DynamicGroups\obj\Debug\DynamicGroups.Client_MarkupCompile.cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DynamicGroups\obj\Debug\DynamicGroups.Client_MarkupCompile.lref
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DynamicGroups\obj\Debug\View\DynamicGroupsVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DynamicGroups\obj\Debug\DynamicGroups.Client.g.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DynamicGroups\obj\Debug\DynamicGroups.Client.Properties.Resources.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DynamicGroups\obj\Debug\DynamicGroups.csproj.GenerateResource.Cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DynamicGroups\obj\Debug\DynamicGroups.Client.dll
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DynamicGroups\obj\Debug\DynamicGroups.Client.pdb

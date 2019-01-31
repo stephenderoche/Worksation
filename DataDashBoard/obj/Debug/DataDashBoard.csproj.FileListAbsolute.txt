@@ -1,0 +1,12 @@
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DataDashBoard\obj\Debug\View\DataDashBoardSettingVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DataDashBoard\obj\Debug\View\DataDashBoardSettingVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DataDashBoard\obj\Debug\View\DataDashBoardVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DataDashBoard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DataDashBoard\obj\Debug\DataDashBoard.Client_MarkupCompile.cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DataDashBoard\obj\Debug\DataDashBoard.Client_MarkupCompile.lref
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DataDashBoard\obj\Debug\View\DataDashBoardVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DataDashBoard\obj\Debug\DataDashBoard.Client.g.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DataDashBoard\obj\Debug\DataDashBoard.Client.Properties.Resources.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DataDashBoard\obj\Debug\DataDashBoard.csproj.GenerateResource.Cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DataDashBoard\obj\Debug\DataDashBoard.Client.dll
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\DataDashBoard\obj\Debug\DataDashBoard.Client.pdb

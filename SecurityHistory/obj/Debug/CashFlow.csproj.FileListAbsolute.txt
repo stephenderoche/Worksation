@@ -1,0 +1,14 @@
+C:\Temp\devexpress17\CashFlow.Client.dll
+C:\Temp\devexpress17\CashFlow.Client.pdb
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CashFlow\obj\Debug\View\CashFlowSettingVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CashFlow\obj\Debug\View\CashFlowSettingVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CashFlow\obj\Debug\View\CashFlowVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CashFlow\obj\Debug\CashFlow.Client_MarkupCompile.cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CashFlow\obj\Debug\CashFlow.Client_MarkupCompile.lref
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CashFlow\obj\Debug\View\CashFlowVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CashFlow\obj\Debug\CashFlow.Client.g.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CashFlow\obj\Debug\CashFlow.Client.Properties.Resources.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CashFlow\obj\Debug\CashFlow.csproj.GenerateResource.Cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CashFlow\obj\Debug\CashFlow.Client.dll
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CashFlow\obj\Debug\CashFlow.Client.pdb
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\CashFlow\obj\Debug\GeneratedInternalTypeHelper.g.cs

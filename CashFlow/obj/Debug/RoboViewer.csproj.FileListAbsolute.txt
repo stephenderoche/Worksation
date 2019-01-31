@@ -1,0 +1,13 @@
+C:\Workspace\Linedata Trading\75.3.0.16300\Dashboard\Widgets\Linedata.Framework.Client.RoboViewerPublisher.dll
+C:\Workspace\Linedata Trading\75.3.0.16300\Dashboard\Widgets\Linedata.Framework.Client.RoboViewerPublisher.pdb
+C:\Workspace\Linedata Trading\75.3.0.18900\Dashboard\Widgets\Linedata.Framework.Client.RoboViewerPublisher.dll
+C:\Workspace\Linedata Trading\75.3.0.18900\Dashboard\Widgets\Linedata.Framework.Client.RoboViewerPublisher.pdb
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\RoboViewer\obj\Debug\RoboViewer.csprojResolveAssemblyReference.cache
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\RoboViewer\obj\Debug\View\RoboViewerPublisherVisual.baml
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\RoboViewer\obj\Debug\View\RoboViewerPublisherVisual.g.cs
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\RoboViewer\obj\Debug\Linedata.Framework.Client.RoboViewerPublisher_MarkupCompile.cache
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\RoboViewer\obj\Debug\Linedata.Framework.Client.RoboViewerPublisher.g.resources
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\RoboViewer\obj\Debug\Linedata.Framework.Client.RoboViewerPublisher.Properties.Resources.resources
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\RoboViewer\obj\Debug\RoboViewer.csproj.GenerateResource.Cache
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\RoboViewer\obj\Debug\Linedata.Framework.Client.RoboViewerPublisher.dll
+C:\Sales_Engineering\Development - 753\TraderPlus\HierarchyWidget\RoboViewer\obj\Debug\Linedata.Framework.Client.RoboViewerPublisher.pdb

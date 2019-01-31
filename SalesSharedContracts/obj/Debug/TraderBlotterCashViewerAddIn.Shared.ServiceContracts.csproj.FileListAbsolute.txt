@@ -1,0 +1,16 @@
+C:\Sales_Engineering\Development\CashViewerTraderBlotter\CashViewerTraderBlotter\Shared\obj\Debug\TraderBlotterCashViewerAddIn.Shared.ServiceContracts.csprojResolveAssemblyReference.cache
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.9000\bin\TraderBlotterCashViewer\TraderBlotterCashViewerAddIn.Shared.ServiceContracts.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.9000\bin\TraderBlotterCashViewer\TraderBlotterCashViewerAddIn.Shared.ServiceContracts.pdb
+C:\Sales_Engineering\Development\CashViewerTraderBlotter\CashViewerTraderBlotter\Shared\obj\Debug\TraderBlotterCashViewerAddIn.Shared.ServiceContracts.dll
+C:\Sales_Engineering\Development\CashViewerTraderBlotter\CashViewerTraderBlotter\Shared\obj\Debug\TraderBlotterCashViewerAddIn.Shared.ServiceContracts.pdb
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.166000\bin\TraderBlotterCashViewer\TraderBlotterCashViewerAddIn.Shared.ServiceContracts.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.166000\bin\TraderBlotterCashViewer\TraderBlotterCashViewerAddIn.Shared.ServiceContracts.pdb
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.16600\bin\TraderBlotterCashViewer\TraderBlotterCashViewerAddIn.Shared.ServiceContracts.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.16600\bin\TraderBlotterCashViewer\TraderBlotterCashViewerAddIn.Shared.ServiceContracts.pdb
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.99\bin\TraderBlotterCashViewer\TraderBlotterCashViewerAddIn.Shared.ServiceContracts.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.99\bin\TraderBlotterCashViewer\TraderBlotterCashViewerAddIn.Shared.ServiceContracts.pdb
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.99\bin\TraderBlotterComplianceViewer\TraderBlotterViewerAddIn.Shared.ServiceContracts.dll
+C:\Program Files\Linedata Services\Linedata Middle Tier\74.0.0.99\bin\TraderBlotterComplianceViewer\TraderBlotterViewerAddIn.Shared.ServiceContracts.pdb
+C:\Sales_Engineering\Development\IntradeCompliance\ComplianceViewerOnBlotter\ComplianceVierwerOnBlotter\ComplianceVierwerOnBlotter.Shared\obj\Debug\TraderBlotterCashViewerAddIn.Shared.ServiceContracts.csprojResolveAssemblyReference.cache
+C:\Sales_Engineering\Development\IntradeCompliance\ComplianceViewerOnBlotter\ComplianceVierwerOnBlotter\ComplianceVierwerOnBlotter.Shared\obj\Debug\TraderBlotterViewerAddIn.Shared.ServiceContracts.dll
+C:\Sales_Engineering\Development\IntradeCompliance\ComplianceViewerOnBlotter\ComplianceVierwerOnBlotter\ComplianceVierwerOnBlotter.Shared\obj\Debug\TraderBlotterViewerAddIn.Shared.ServiceContracts.pdb

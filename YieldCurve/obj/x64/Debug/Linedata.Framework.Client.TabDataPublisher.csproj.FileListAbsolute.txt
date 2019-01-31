@@ -1,0 +1,9 @@
+C:\Work\Longview\Version_75\TestApps\TabDataPublisher\obj\x64\Debug\Linedata.Framework.Client.TabDataPublisher.csprojResolveAssemblyReference.cache
+C:\Work\Longview\Version_75\TestApps\TabDataPublisher\obj\x64\Debug\TabDataPublisherVisual.baml
+C:\Work\Longview\Version_75\TestApps\TabDataPublisher\obj\x64\Debug\TabDataPublisherVisual.g.cs
+C:\Work\Longview\Version_75\TestApps\TabDataPublisher\obj\x64\Debug\Linedata.Framework.Client.TabDataPublisher_MarkupCompile.cache
+C:\Work\Longview\Version_75\TestApps\TabDataPublisher\obj\x64\Debug\Linedata.Framework.Client.TabDataPublisher.g.resources
+C:\Work\Longview\Version_75\Debug_x64\bin\widgets\Linedata.Framework.Client.TabDataPublisher.dll
+C:\Work\Longview\Version_75\Debug_x64\bin\widgets\Linedata.Framework.Client.TabDataPublisher.pdb
+C:\Work\Longview\Version_75\TestApps\TabDataPublisher\obj\x64\Debug\Linedata.Framework.Client.TabDataPublisher.dll
+C:\Work\Longview\Version_75\TestApps\TabDataPublisher\obj\x64\Debug\Linedata.Framework.Client.TabDataPublisher.pdb

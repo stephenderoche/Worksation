@@ -1,0 +1,12 @@
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\SpreadSheetWidget\obj\Debug\View\SpreadSheetWidgetSettingVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\SpreadSheetWidget\obj\Debug\View\SpreadSheetWidgetSettingVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\SpreadSheetWidget\obj\Debug\View\SpreadSheetWidgetVisual.g.cs
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\SpreadSheetWidget\obj\Debug\SpreadSheetWidget_MarkupCompile.cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\SpreadSheetWidget\obj\Debug\SpreadSheetWidget_MarkupCompile.lref
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\SpreadSheetWidget\obj\Debug\View\SpreadSheetWidgetVisual.baml
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\SpreadSheetWidget\obj\Debug\SpreadSheetWidget.g.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\SpreadSheetWidget\obj\Debug\SpreadSheetWidget.Properties.Resources.resources
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\SpreadSheetWidget\obj\Debug\SpreadSheetWidget.csproj.GenerateResource.Cache
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\SpreadSheetWidget\obj\Debug\SpreadSheetWidget.dll.licenses
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\SpreadSheetWidget\obj\Debug\SpreadSheetWidget.pdb
+C:\Sales_Engineering\Development - 753\Workstation 753 Release\Widgets\SpreadSheetWidget\obj\Debug\SpreadSheetWidget.dll
